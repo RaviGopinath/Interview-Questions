@@ -1,0 +1,55 @@
+1. Semantic Elements in HTML?
+
+	<article>
+	<aside>
+	<details>
+	<figcaption>
+	<figure>
+	<footer>
+	<header>
+	<main>
+	<mark>
+	<nav>
+	<section>
+	<summary>
+	<time>
+
+2. HTML <iframe> Tag?
+
+	The <iframe> tag specifies an inline frame.
+
+	An inline frame is used to embed another document within the current HTML document.
+
+3. Z index?
+
+	When elements are positioned, they can overlap other elements.
+
+	The z-index property specifies the stack order of an element (which element should be placed in front of, or behind, the others).
+
+4. Canvas Tag?
+
+	The <canvas> tag is used to draw graphics, on the fly, via scripting (usually JavaScript).
+
+	The <canvas> tag is transparent, and is only a container for graphics, you must use a script to actually draw the graphics.
+
+	Any text inside the <canvas> element will be displayed in browsers with JavaScript disabled and in browsers that do not support <canvas>.
+
+5. Hoisting?
+
+	In JavaScript, a variable can be declared after it has been used.
+
+	In other words; a variable can be used before it has been declared.
+
+6. Let , var , const Difference?
+
+	* Variables defined with let cannot be redeclared.You cannot accidentally redeclare a variable.
+	* With var you can.
+	* Variables defined with const cannot be Redeclared.Variables defined with const cannot be Reassigned.
+
+7. Position?
+
+	* static
+	* relative
+	* fixed
+	* absolute
+	* sticky
